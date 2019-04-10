@@ -1,0 +1,11 @@
+package com.popiang;
+
+public class HelloWorldGreeting implements Greeting {
+
+	@Override
+	public void greet() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.popiang;
+
+public interface Greeting {
+	public void greet();
+}
